@@ -1,3 +1,4 @@
+-- Starter data for tables created in schema.sql
 INSERT INTO department (department_name)
 VALUES
   ("Sales"),
